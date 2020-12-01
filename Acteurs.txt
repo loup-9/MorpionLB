@@ -1,0 +1,21 @@
+Projet morpion
+
+Réaliser un jeu de morpion. Les 2 joueurs partageront une partie commune depuis deux téléphones différents
+
+
+
+les acteurs :
+
+	utilisateurs finaux = deux presonnes qui jouent au morpion ( deux telephones qui communiquent )
+	utilisateur/testeur = moi, 
+	
+	
+role de l'utilisateur :
+	-ouvre l'application
+	-arrive sur une page home avec un bouton jouer
+	-joue
+	-gagne/perd
+	-sort de l'app ou rejoue
+	
+	
+

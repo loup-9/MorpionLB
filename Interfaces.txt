@@ -1,16 +1,13 @@
 Interface de l'application  
 
-4 pages differents :
+3 pages differents :
 	- home / screen home ( bonjour ; bouton jouer, score et about)
 	- page de jeux morpion (9 cases ; fin de tour / rejouer; retour écran d'accueil)
-	- score (message perdu ou gagné ; retour écran d'accueil)
 	- about : descriptif bref
 	
 message pop-up :
-	- dans l'attente de l'autre joueur
-	- vous jouer en premier/deuxieme
-	- à vous de jouer
-	- voulez-vous rejouer? 
-		-- oui, retour à dans l'attente de l'autre joueur
+
+	- voulez-vous quitter l'application (bouton back android / bouton dans la toolbar)? 
+		-- oui, quitte l'application
 		-- non, retour à l'ecran d'acceuil
 		

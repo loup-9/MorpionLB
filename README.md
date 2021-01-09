@@ -13,9 +13,9 @@ La qualité de l'interaction utilisateur (UX, éventements touch,...)  ok
 
 La mise en place de la persistance de Donnée (Preference, SQLite et/ou Firebase) A FAIRE/PAS TERMINER
 
-J'ai eu beaucoup de mal avec firebase, j'ai reussi a prendre compte le bouton de remise à zero (RAZ) pour qu'il agise sur les deux telephones en meme temps,
+J'ai eu beaucoup de mal avec firebase, j'ai reussi à prendre compte le bouton de remise à zero (RAZ) pour qu'il agise sur les deux telephones en meme temps,
 
-ajouter dans la base de donnée les "valeurs " des boutons (X/O) , les supprimées une fois que la partie est terminé. (Je n'arrivai plus à faire fonctionner mon cerveau pour qu'il fasse une simple boucle, donc vous verez donc un gros pavé tres moche dans la methode resetGame() )
+ajouter dans la base de donnée les "valeurs " des boutons (X/O) , les supprimer une fois que la partie est terminée. (Je n'arrivai plus à faire fonctionner mon cerveau pour qu'il fasse une simple boucle, donc vous verez donc un gros pavé tres moche dans la methode resetGame() )
 
 Je n'arrive malheureusement pas à faire en sorte que lorsqu'on appuie sur un bouton, cela s'affiche sur le telephone de l'adversaire. C'est la piece manquante!
 
